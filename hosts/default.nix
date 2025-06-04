@@ -80,7 +80,6 @@
     curl
     firefox
     pnpm
-    jetbrains.webstorm
     phpPackages.composer
     (php.buildEnv {
       extensions = { enabled, all }: with all; [
